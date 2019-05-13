@@ -1,0 +1,25 @@
+body {
+  font-family: "Arial", "Helvetica", sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+input[type="password"],
+input[type="text"] {
+  border: 1px #b6e7f9 solid;
+  padding: 5px 10px;
+}
+
+input[type="checkbox"] {
+  vertical-align: middle;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  color: #fff;
+  background-color: #65b0ed;
+  border: none;
+  display: inline-block;
+  cursor: pointer;
+}
