@@ -2,6 +2,8 @@
 
 Use JavaScript to display or hide a password in a form.
 
+[View the project live](https://peoray.github.io/toggle-form-password/)
+
 This is the complete code for this article:
 [How to display password in a form input](https://blog.peoray.com/display-password-form-input/)
 
